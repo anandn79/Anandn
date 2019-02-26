@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63839" started-at="2019-02-25T14:01:01Z" finished-at="2019-02-25T14:02:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63839" started-at="2019-02-25T14:01:01Z" finished-at="2019-02-25T14:02:05Z">
+      <class name="org.automation.twitter.testcases.TC_001_ValidateLogin">
+        <test-method status="PASS" signature="initiateDriverinstance()[pri:0, instance:org.automation.twitter.testcases.TC_001_ValidateLogin@42e26948]" name="initiateDriverinstance" is-config="true" duration-ms="31779" started-at="2019-02-25T14:01:04Z" finished-at="2019-02-25T14:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverinstance -->
+        <test-method status="PASS" signature="TC_001(java.lang.String, java.lang.String)[pri:0, instance:org.automation.twitter.testcases.TC_001_ValidateLogin@42e26948]" name="TC_001" duration-ms="12004" started-at="2019-02-25T14:01:35Z" data-provider="Excel" finished-at="2019-02-25T14:01:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testonthur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[acc12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.twitter.testcases.TC_001_ValidateLogin@42e26948]" name="closeDriverInstance" is-config="true" duration-ms="1557" started-at="2019-02-25T14:01:47Z" finished-at="2019-02-25T14:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverinstance()[pri:0, instance:org.automation.twitter.testcases.TC_001_ValidateLogin@42e26948]" name="initiateDriverinstance" is-config="true" duration-ms="9069" started-at="2019-02-25T14:01:49Z" finished-at="2019-02-25T14:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverinstance -->
+        <test-method status="PASS" signature="TC_001(java.lang.String, java.lang.String)[pri:0, instance:org.automation.twitter.testcases.TC_001_ValidateLogin@42e26948]" name="TC_001" duration-ms="5807" started-at="2019-02-25T14:01:58Z" data-provider="Excel" finished-at="2019-02-25T14:02:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testonfri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[acc12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.twitter.testcases.TC_001_ValidateLogin@42e26948]" name="closeDriverInstance" is-config="true" duration-ms="1435" started-at="2019-02-25T14:02:04Z" finished-at="2019-02-25T14:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.twitter.testcases.TC_001_ValidateLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
